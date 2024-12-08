@@ -1,0 +1,1 @@
+export { StatusEntity } from './status.entity';
